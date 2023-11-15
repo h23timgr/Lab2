@@ -1,0 +1,14 @@
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.AssemblyInfoInputs.cache
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.AssemblyInfo.cs
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.csproj.CoreCompileInputs.cache
+C:\Users\tgron\Desktop\Laboration 2\bin\Debug\net6.0\Laboration 2.exe
+C:\Users\tgron\Desktop\Laboration 2\bin\Debug\net6.0\Laboration 2.deps.json
+C:\Users\tgron\Desktop\Laboration 2\bin\Debug\net6.0\Laboration 2.runtimeconfig.json
+C:\Users\tgron\Desktop\Laboration 2\bin\Debug\net6.0\Laboration 2.dll
+C:\Users\tgron\Desktop\Laboration 2\bin\Debug\net6.0\Laboration 2.pdb
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.dll
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\refint\Laboration 2.dll
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.pdb
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\Laboration 2.genruntimeconfig.cache
+C:\Users\tgron\Desktop\Laboration 2\obj\Debug\net6.0\ref\Laboration 2.dll
