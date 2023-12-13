@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tgron\\Desktop\\Laboration 2\\Laboration 2.csproj",
+      "projectUniqueName": "C:\\Users\\tgron\\Desktop\\Första Termin\\Objektorienterad programmering\\Laboration 2\\Laboration 2.csproj",
       "projectName": "Laboration 2",
-      "projectPath": "C:\\Users\\tgron\\Desktop\\Laboration 2\\Laboration 2.csproj",
+      "projectPath": "C:\\Users\\tgron\\Desktop\\Första Termin\\Objektorienterad programmering\\Laboration 2\\Laboration 2.csproj",
       "packagesPath": "C:\\Users\\tgron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tgron\\Desktop\\Laboration 2\\obj\\",
+      "outputPath": "C:\\Users\\tgron\\Desktop\\Första Termin\\Objektorienterad programmering\\Laboration 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tgron\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
